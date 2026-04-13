@@ -1,7 +1,5 @@
 ## 📡 API Reference
 
-# API LINK - https://notes-api-typescript-production.up.railway.app
-
 ### Health Check
 
 Check if the server is running.
